@@ -1,0 +1,14 @@
+body{
+	background: url("../images/img_background.jpg");
+	
+}
+
+li a{
+	color: blue;
+	font-weight: bolder;
+
+}
+
+li{
+	list-style-type: none;
+}
